@@ -116,3 +116,4 @@ Arreglos: char title[100], int *issued_books.
 
 Conclusiones:
 Gracias a la práctica pude ver más allá de los conecptos vistos en clase y pude ser capaz de identificarlos fuera de lo teórico, también vi cómo se utiliza cada cosa. Además de saber identificar más rápido todo.
+([Repositorio](https://github.com/pinapinv/portafolioPP))
